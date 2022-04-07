@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 ### 🏏현재까지의 Project
 
 - 2022.01~ SSAFY 관통 프로젝트(themoviedb를 이용한 영화 searching site 제작)
+  - 사용 Stack : Django, HTML, CSS, Bootstrap
