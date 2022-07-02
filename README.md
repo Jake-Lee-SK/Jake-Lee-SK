@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 🙄현재 상태 : SSAFY 7th 1학기 수료, 2학기 재학
 
-### 🙋‍♂️현재 수준 : Samsung 역량 테스트 IM , BOJ Silver 2(Class3+), Programmers Skill-check Level 2
+### 🙋‍♂️현재 수준 : Samsung 역량 테스트 IM , BOJ Gold 5(Class4), Programmers Skill-check Level 2
 
 ### 🏏현재까지의 Project
 
