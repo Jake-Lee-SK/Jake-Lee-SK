@@ -21,14 +21,12 @@ Here are some ideas to get you started:
 
 ### 🙄현재 상태 : SSAFY 7th 1학기 수료, 2학기 재학
 
-### 🙋‍♂️현재 수준 : Samsung 역량 테스트 IM , BOJ Gold 4(Class4), Programmers Skill-check Level 2
-
 ### 🏏현재까지의 Project
 
 - 2022.01~ SSAFY 관통 프로젝트(themoviedb를 이용한 영화 searching site 제작)
   - 사용 Stack : Django, HTML, CSS, Bootstrap
 - 2022.05 SSAFY 1학기 마무리 프로젝트(영화 추천 사이트 제작)
   - 사용 Stack : Django, HTML, CSS, Bootstrap, Python, JavaScript
-- 2022.07.11~ SSAFY 2학기 첫 프로젝트(예·적금 금리 비교 및 현 예·적금 포트폴리오 시각화 사이트)(예정)
+- 2022.07.11~2022.08.19 SSAFY 2학기 첫 프로젝트(예·적금 금리 비교 및 현 예·적금 포트폴리오 시각화 사이트)
   - 역할 : Front-End
-  - 사용 Stack : HTML, CSS, TypeScript, JavaScript, Vue.js, Node.js
+  - 사용 Stack : HTML, CSS, TypeScript, JavaScript, Vue.js
