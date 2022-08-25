@@ -29,4 +29,7 @@ Here are some ideas to get you started:
   - 사용 Stack : Django, HTML, CSS, Bootstrap, Python, JavaScript
 - 2022.07.11~2022.08.19 SSAFY 2학기 첫 프로젝트(예·적금 금리 비교 및 현 예·적금 포트폴리오 시각화 사이트)
   - 역할 : Front-End
-  - 사용 Stack : HTML, CSS, TypeScript, JavaScript, Vue.js
+  - 사용 Stack : HTML, CSS, JavaScript, Vue.js
+- 2022.08.22~2022.10.09 SSAFY 2학기 특화 프로젝트(주제 미정)
+  - 역할 : Front-End
+  - 사용 Stack : React, TypeScript, Redux(예정)
