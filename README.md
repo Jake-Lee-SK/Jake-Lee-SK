@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 - 2022.08.22~2022.10.09 SSAFY 2학기 특화 프로젝트(분산 처리 컴퓨팅 이용한 식물 정보 도감 사이트)
   - 역할 : Front-End
   - 사용 Stack : React, TypeScript
-- 2022.10.11~2022.11.18 SSAFY 2학기 자율 프로젝트(삼성SDI 기업연계 프로젝트)
+- 2022.10.11~2022.11.01 SSAFY 2학기 자율 프로젝트(삼성SDI 기업연계 프로젝트)
   - 역할 : Front-End, Mobile
-  - 사용 Stack : 미정
+  - 사용 Stack : Android Studio
