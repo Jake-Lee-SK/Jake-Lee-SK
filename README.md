@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 - 2022.10.11~2022.11.01 SSAFY 2학기 자율 프로젝트(삼성SDI 기업연계 프로젝트)
   - 역할 : Front-End, Mobile
   - 사용 Stack : Android Studio
+- 2023.04.04~ Project TC
+  - 역할 : Front-End
+  - 사용 Stack : React, Recoil, Tailwind 등
