@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 🌱사용 Stack : Python3 (3.9.9), HTML5, CSS, JavaScript, Vue
 
-### 🙄현재 상태 : SSAFY 7th 1학기 수료, 2학기 재학
+### 🙄현재 상태 : SSAFY 7th 1학기 수료, 2학기 재학 중 취업, 우리에프아이에스 재직 중
 
 ### 🏏현재까지의 Project
 
@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 - 2022.10.11~2022.11.01 SSAFY 2학기 자율 프로젝트(삼성SDI 기업연계 프로젝트)
   - 역할 : Front-End, Mobile
   - 사용 Stack : Android Studio
-- 2023.04.04~ Project TC
+- 2023.04.04~ Project MOA
   - 역할 : Front-End
   - 사용 Stack : React, Recoil, Tailwind 등
